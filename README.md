@@ -8,9 +8,9 @@ tools other people trust. I'm applying that to soccer because I love the beautif
 ## Featured projects
 | Project | What it answers | Highlight |
 |---|---|---|
-| [Beyond Basic xG](link) | Does defensive context change shot quality? | AUC 0.72 → 0.76 on 3,490 shots |
-| [Gotham 2023 xG Review](link) | How good were one team's chances? | Predicted 49.8 goals vs 50 actual |
-| [Entropy of Transition](link) | Does defensive shape break down on counters? | 8 counters vs 287-play baseline |
+| [Beyond Basic xG](https://github.com/falkbrad-sudo/beyond-basic-xg) | Does defensive context change shot quality? | AUC 0.72 → 0.76 on 3,490 shots |
+| [Gotham 2023 xG Review](https://github.com/falkbrad-sudo/gotham-2023-xg-review) | How good were one team's chances? | Predicted 49.8 goals vs 50 actual |
+| [Entropy of Transition](https://github.com/falkbrad-sudo/entropy-of-transition) | Does defensive shape break down on counters? | 8 counters vs 287-play baseline |
 
 ## Skills
 Python · SQL · scikit-learn · statistics · Streamlit · Git
